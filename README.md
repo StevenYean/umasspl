@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+**Welcome to the UMass Amherst Pokemon League!**
 
-You can use the [editor on GitHub](https://github.com/StevenYean/umasspl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The UMass Pokemon League is a club that gives students the chance to play and learn about Pokemon, whether it be the video game, the TCG, or Pokemon Go. If you're interested in competitive battling, VGC (Video Game Championships), or nuzlockes, then you've come to the right place!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Current Events**
 
-### Markdown
+Pokemon Sun and Moon tournaments are coming to a UMass PL near you!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Featured Replays**
 
-```markdown
-Syntax highlighted code block
+**Amherst Attack Finals**
 
-# Header 1
-## Header 2
-### Header 3
+Kevin K. Vs. Steven Y. 
+http://replay.pokemonshowdown.com/mitpokemonleague-ou-2671 
 
-- Bulleted
-- List
+Salt ensues after several finches. 
+http://replay.pokemonshowdown.com/ou-424175239
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StevenYean/umasspl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Be sure to join the "UMass Pokemon League" Facebook Group for all of the latest updates!
